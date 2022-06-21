@@ -2,7 +2,7 @@
 Solve a Sudoku using backtracking algorithm.
 Paste an unsolved sudoku puzzle in the ```sudoku.txt``` file:
 
-#Input Format
+# Input Format
 ```
 5 0 0 3 0 0 0 6 9 
 0 8 0 5 9 0 3 1 7 
@@ -15,7 +15,7 @@ Paste an unsolved sudoku puzzle in the ```sudoku.txt``` file:
 0 9 4 6 0 5 2 0 1
 ```
 
-#Output Format
+# Output Format
 ```
 5 2 7 3 1 8 4 6 9
 4 8 6 5 9 2 3 1 7
