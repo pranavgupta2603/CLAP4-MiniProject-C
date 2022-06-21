@@ -1,5 +1,6 @@
 # CLAP4-MiniProject-C
-Solve a Sudoku using backtracking algorithm.\n
+Solve a Sudoku using backtracking algorithm.
+
 Paste an unsolved sudoku puzzle in the ```sudoku.txt``` file:
 
 # Input Format
