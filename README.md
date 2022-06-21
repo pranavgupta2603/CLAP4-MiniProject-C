@@ -14,7 +14,6 @@ Paste an unsolved sudoku puzzle in the ```sudoku.txt``` file:
 2 3 5 8 0 1 9 7 6 
 0 9 4 6 0 5 2 0 1
 ```
-
 # Output Format
 ```
 5 2 7 3 1 8 4 6 9
@@ -26,4 +25,8 @@ Paste an unsolved sudoku puzzle in the ```sudoku.txt``` file:
 7 6 1 9 2 3 5 4 8
 2 3 5 8 4 1 9 7 6
 8 9 4 6 7 5 2 3 1
+```
+To run the code in Terminal: 
+```cd C:/path_to_dir/
+app
 ```
