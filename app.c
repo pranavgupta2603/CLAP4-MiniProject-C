@@ -91,8 +91,9 @@ int main()
 	fclose(ptr);
 	if (solveSudoku(arr, 0, 0)==1)
 		print(arr);
+		
 	else
 		printf("No solution exists");
-
+	
 	return 0;
 }
